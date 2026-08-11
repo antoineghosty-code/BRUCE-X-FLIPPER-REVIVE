@@ -2,10 +2,10 @@
 Projet for/pour T-EMBED - CC1101 - PLUS 
 j'ai juste fait revivre quelque chose qui etait plus la :)
 
-Ce projet a été abandonné et on ne peut plus le flasher depuis le WEB FLASHER du créateur original j'ai reussi a recompiler les fichiers afin de remettre la v1.1.5 de Flipper port et remmetre bruce avec loption "switch to flipper" il ne sera probablment pas mis a jour. Vous pouvez installer une version plus récente de Bruce mais vous naurez plus le bouton 'switch to flipper' il faut reset a chaque fois 
+Ce projet a été abandonné et on ne peut plus le flasher depuis le WEB FLASHER du créateur original j'ai reussi a recompiler les fichiers afin de remettre la v1.1.6 de Flipper port et remmetre bruce avec loption "switch to flipper" il ne sera probablment pas mis a jour. Vous pouvez installer une version plus récente de Bruce mais vous naurez plus le bouton 'switch to flipper' il faut reset a chaque fois 
 
 
-This project was abandoned and you can no longer flash it from the original creator's WEB FLASHER. I managed to recompile the files to restore Flipper port v1.1.5 and bring back Bruce with the 'switch to flipper' option. It probably won't be updated. You can install a newer version of Bruce, but you won't have the 'switch to flipper' button anymore. you have to reset each time.
+This project was abandoned and you can no longer flash it from the original creator's WEB FLASHER. I managed to recompile the files to restore Flipper port v1.1.6 and bring back Bruce with the 'switch to flipper' option. It probably won't be updated. You can install a newer version of Bruce, but you won't have the 'switch to flipper' button anymore. you have to reset each time.
 
 ((((Copiez le contenu de la carte SD à la racine de votre carte SD pour que Flipper OS fonctionne correctement----Copy the SD card content to the root of your SD card for Flipper OS to function correctly))))
 
